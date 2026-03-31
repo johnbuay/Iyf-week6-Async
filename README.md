@@ -1,19 +1,16 @@
 # Iyf-week6-Async
 
 ## Author
-Name:John Buay
-Date: March 29th 2026
+- Name:John Buay
+- Date: March 29th 2026
 ### Project Description
-- A responsive weather dashboard that displays current weather conditions,
-  1. 5-day forecasts
-  2. 3-hour interval forecasts using the OpenWeather API.
- The project focuses on API integration, data transformation, and UI structuring for real-world frontend applications. DOM Manipulation codes
+- A responsive weather dashboard that displays current weather conditions, 5-day forecasts,3-hour interval forecasts using the OpenWeather API. The project focuses on API integration, data transformation, and UI structuring for real-world frontend applications. DOM Manipulation codes
 
 ### Technologies Used
-HTML5
-CSS3
-JavaScript (ES6+)
-OpenWeather API
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- OpenWeather API
 ### Features
 - City-based weather search
 - Current weather display (temperature, humidity, wind, pressure)
